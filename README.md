@@ -39,7 +39,7 @@ Developed an analytics workflow using a national CDC surveillance dataset with m
 
 ## GitHub Stats
 
-![Gurbaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurbaj8226&show_icons=true&hide_title=true)
+![Gurbaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurbaj8226&show_icons=true&theme=transparent)
 
 ## Connect With Me
 
