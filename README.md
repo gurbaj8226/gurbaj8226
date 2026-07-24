@@ -37,10 +37,6 @@ Developed an analytics workflow using a national CDC surveillance dataset with m
 - **Kaggle Python Certificate** — February 2026
 - **Kaggle Pandas Certificate** — March 2026
 
-## GitHub Stats
-
-![Gurbaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurbaj8226&show_icons=true&theme=transparent)
-
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/gurbaj-singh-tech/)
