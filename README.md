@@ -22,7 +22,7 @@ Analyzed 145,879 Medicare inpatient records to evaluate charge-to-payment gaps a
 
 Built and evaluated Logistic Regression and Decision Tree models using CMS hospital readmission data. The project included data preprocessing, feature selection, leakage prevention, model comparison, and interpretation of classification performance.
 
-### [CDC COVID-19 Surveillance Analysis]([https://github.com/gurbaj8226](https://github.com/gurbaj8226/cdc-covid-project))
+### [CDC COVID-19 Surveillance Analysis](https://github.com/gurbaj8226/cdc-covid-project)
 
 Developed an analytics workflow using a national CDC surveillance dataset with more than one million records to examine hospitalization, ICU admission, and mortality patterns across demographic and clinical groups.
 
