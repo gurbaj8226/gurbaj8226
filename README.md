@@ -14,14 +14,28 @@ My current work focuses on using Python, SQL, Tableau, Excel, and machine-learni
 
 ## Featured Projects
 
-### Medicare Charge-to-Payment Gap Analysis
-Analyzed 145,879 Medicare inpatient records to evaluate charge-to-payment gaps across states, clinical service lines, and providers using Python and Tableau.
+### [Medicare Charge-to-Payment Gap Analysis](https://github.com/gurbaj8226/Hospital-Charge-vs-Medicare-Reimbursement-Analysis)
 
-### Hospital Excess Readmission Classification
-Built and evaluated Logistic Regression and Decision Tree models using CMS hospital readmission data, with attention to data leakage, feature selection, and model interpretation.
+Analyzed 145,879 Medicare inpatient records to evaluate charge-to-payment gaps across states, clinical service lines, and providers. Used Python for data cleaning, validation, aggregation, and analysis, and Tableau to communicate findings through an interactive dashboard.
 
-### CDC COVID-19 Surveillance Analysis
-Developed an analytics workflow using a national CDC surveillance dataset to examine hospitalization, ICU admission, and mortality patterns.
+### [Hospital Excess Readmission Classification](https://github.com/gurbaj8226/Hospital-Excess-Readmission-Classification)
+
+Built and evaluated Logistic Regression and Decision Tree models using CMS hospital readmission data. The project included data preprocessing, feature selection, leakage prevention, model comparison, and interpretation of classification performance.
+
+### [CDC COVID-19 Surveillance Analysis](https://github.com/gurbaj8226)
+
+Developed an analytics workflow using a national CDC surveillance dataset with more than one million records to examine hospitalization, ICU admission, and mortality patterns across demographic and clinical groups.
+
+## Awards, Achievements, and Certifications
+
+- **Break Through Tech AI Fellow, Cornell Tech** — Selected from more than 4,000 applicants for an applied AI and machine-learning fellowship
+- **Dean's List, St. John's University** — Spring 2025, Fall 2025, and Spring 2026
+- **National Society of Leadership and Success** — Inducted member
+- **Emerging Leadership Program** — Certificate of completion
+- **Cognizant First Year Explorer Program** — Participant
+- **IC3 Digital Literacy Certification** — May 2023
+- **Kaggle Python Certificate** — February 2026
+- **Kaggle Pandas Certificate** — March 2026
 
 ## Connect With Me
 
