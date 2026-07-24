@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at St. John's University interested in data analytics, healthcare analytics, and applied AI. I build end-to-end projects that transform complex datasets into clear findings, visualizations, and business recommendations.
 
-My current work focuses on using Python, SQL, Tableau, Excel, and machine-learning methods to analyze healthcare, operational, and public-sector data. I am pursuing Summer 2027 opportunities in data analytics, business analytics, and related technology roles.
+My current work focuses on using Python, SQL, Tableau, Excel, and machine-learning methods to analyze healthcare, operational, and public-sector data. I am pursuing Summer 2027 data and business analytics opportunities where I can apply technical and analytical skills to real organizational problems.
 
 ## Technical Skills
 
