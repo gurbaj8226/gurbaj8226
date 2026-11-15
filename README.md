@@ -43,6 +43,6 @@ Developed an analytics workflow using a national CDC surveillance dataset with m
 - Email: gurbaj8226@gmail.com
 
 
-## GitHub Activity
+## Technologies & Tools
 
-![GitHub Stats](https://ghstats.dev/api/card?username=gurbaj8226)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,sklearn,pytorch,git,github&theme=dark)](https://skillicons.dev)
