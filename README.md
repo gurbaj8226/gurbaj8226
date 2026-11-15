@@ -41,3 +41,8 @@ Developed an analytics workflow using a national CDC surveillance dataset with m
 
 - [LinkedIn](https://www.linkedin.com/in/gurbaj-singh-tech/)
 - Email: gurbaj8226@gmail.com
+
+
+## GitHub Activity
+
+![GitHub Stats](https://ghstats.dev/api/card?username=gurbaj8226)
